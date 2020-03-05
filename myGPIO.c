@@ -38,7 +38,7 @@ void initGPIO()
     // Boosterpack LED Blue
 
 
-    // Turn off all LEDs at the start.
+    // Turn off all LEDs at the start
 }
 
 // TODO: Create a function to return the status of Launchpad Pushbutton S1
